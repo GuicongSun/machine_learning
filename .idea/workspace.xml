@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dda9423-e16d-445e-9950-9b34e83687e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="a68de20e-a390-4c61-98d6-f18130646720" />
+  <component name="ProjectId" id="1dGKEsKwNUb0Hkk9zPQeYtVzO6a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\magic\ML\ex4-NN back propagation" />
+      <recent name="D:\code\magic\ML\ex2-logistic regression" />
+      <recent name="D:\code\magic\ML\ex1-linear regression" />
+      <recent name="D:\code\magic\ML" />
+      <recent name="D:\code\magic\HW\day1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\magic\ML\ones" />
+      <recent name="D:\code\magic\HW\day1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.practice">
+    <configuration name="practice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ex1-linear regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ex1-linear regression/practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ex3-neural network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ex3-neural network/practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ex4-NN back propagation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ex4-NN back propagation/practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ex2-logistic regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ex2-logistic regression/practice2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ex4-NN back propagation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ex4-NN back propagation/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.text" />
+        <item itemvalue="Python.practice (2)" />
+        <item itemvalue="Python.practice2" />
+        <item itemvalue="Python.practice (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dda9423-e16d-445e-9950-9b34e83687e9" name="Default Changelist" comment="" />
+      <created>1592045880534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592045880534</updated>
+      <workItem from="1592045881904" duration="2686000" />
+      <workItem from="1592050422959" duration="1044000" />
+      <workItem from="1592051689464" duration="547000" />
+      <workItem from="1592052267366" duration="239000" />
+      <workItem from="1592052529490" duration="425000" />
+      <workItem from="1592053247663" duration="349000" />
+      <workItem from="1592053683523" duration="32000" />
+      <workItem from="1592056734729" duration="1698000" />
+      <workItem from="1592058459726" duration="3478000" />
+      <workItem from="1592066795886" duration="1268000" />
+      <workItem from="1592094575426" duration="366000" />
+      <workItem from="1592094992196" duration="2455000" />
+      <workItem from="1592187253534" duration="2413000" />
+      <workItem from="1592700674066" duration="266000" />
+      <workItem from="1592707468064" duration="4984000" />
+      <workItem from="1592728627208" duration="8812000" />
+      <workItem from="1592785550484" duration="3622000" />
+      <workItem from="1592789969207" duration="338000" />
+      <workItem from="1593653229024" duration="10106000" />
+      <workItem from="1593822965376" duration="9617000" />
+      <workItem from="1593835530869" duration="1790000" />
+      <workItem from="1594293814332" duration="470000" />
+      <workItem from="1594343814656" duration="2543000" />
+      <workItem from="1594424166925" duration="4256000" />
+      <workItem from="1594459881963" duration="14488000" />
+      <workItem from="1596283308869" duration="113000" />
+      <workItem from="1596283753018" duration="252000" />
+      <workItem from="1596284127282" duration="1324000" />
+      <workItem from="1596288561129" duration="123000" />
+      <workItem from="1596330326451" duration="466000" />
+      <workItem from="1596331434640" duration="78000" />
+      <workItem from="1596448467548" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Notifications" timestamp="1592189227823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1592189227823" />
+    <state x="501" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594294084078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594294084078" />
+    <state x="452" y="57" key="#text" timestamp="1592059491693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="57" key="#text/0.0.1536.824@0.0.1536.824" timestamp="1592059491693" />
+    <state x="232" y="156" key="FileChooserDialogImpl" timestamp="1592059427875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="232" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592059427875" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1594477917643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594470561421" />
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593663904623" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594477917643" />
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592104480587" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1594477917643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594470561421" />
+    <state width="1877" height="174" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593663904623" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594477917643" />
+    <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592104480587" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1594477917643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594470561421" />
+    <state width="1877" height="174" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593663904623" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594477917643" />
+    <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592104480587" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1594477917643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594470561421" />
+    <state width="1877" height="174" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593663904623" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594477917643" />
+    <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592104480587" />
+    <state width="1478" height="206" key="GridCell.Tab.1.bottom" timestamp="1592062076142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="206" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592062076142" />
+    <state width="1478" height="206" key="GridCell.Tab.1.center" timestamp="1592062076142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="206" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592062076142" />
+    <state width="1478" height="206" key="GridCell.Tab.1.left" timestamp="1592062076142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="206" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592062076142" />
+    <state width="1478" height="206" key="GridCell.Tab.1.right" timestamp="1592062076142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="206" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592062076142" />
+    <state x="501" y="41" width="1125" height="925" key="SettingsEditor" timestamp="1596288677329">
+      <screen x="0" y="0" width="1920" height="966" />
+    </state>
+    <state x="2421" y="127" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594470388364" />
+    <state x="393" y="117" width="1014" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592710493160" />
+    <state x="501" y="41" width="1125" height="925" key="SettingsEditor/0.0.1920.966@0.0.1920.966" timestamp="1596288677329" />
+    <state x="457" y="167" width="621" height="490" key="find.popup" timestamp="1594345780758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="167" width="621" height="490" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1594345780758" />
+    <state x="491" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1592095457247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1592095457247" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/magic$standard.coverage" NAME="standard Coverage Results" MODIFIED="1592790244419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW/day1" />
+    <SUITE FILE_PATH="coverage/magic$text.coverage" NAME="text Coverage Results" MODIFIED="1594464719739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/ex4-NN back propagation" />
+    <SUITE FILE_PATH="coverage/magic$te.coverage" NAME="te Coverage Results" MODIFIED="1593663598168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/magic$practice__1_.coverage" NAME="practice (1) Coverage Results" MODIFIED="1593835601688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/ex1-linear regression" />
+    <SUITE FILE_PATH="coverage/magic$practice.coverage" NAME="practice Coverage Results" MODIFIED="1594477543175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/ex4-NN back propagation" />
+    <SUITE FILE_PATH="coverage/magic$text__1_.coverage" NAME="text (1) Coverage Results" MODIFIED="1593662028385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/magic$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1593837059533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/ex2-logistic regression" />
+    <SUITE FILE_PATH="coverage/magic$practice__2_.coverage" NAME="practice (2) Coverage Results" MODIFIED="1594427828839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/ex3-neural network" />
+    <SUITE FILE_PATH="coverage/magic$practice1__1_.coverage" NAME="practice1 (1) Coverage Results" MODIFIED="1593833003774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML/ex2-logistic regression" />
+  </component>
+</project>
